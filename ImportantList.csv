@@ -1,0 +1,269 @@
+Device Name,DeviceType,User,MMD OU,Device Model,Serial Number,upgrade (y/n),Domain,AAD Device Id,Last device update,OS Version,OS Build,Windows 10 Version,Device IPs,Onboarding Status,Managed By,Match w/Current?,Match w/ Current?
+4hcenter-3,User,Kristy Abrams,ACES,HP ProDesk 600 G2 SFF,MXL63129TL,No,mmd,46b79949-2c16-4399-8fd4-49c640f909a5,4/14/2025 13:36,22H2,19045,22H2,"10.46.70.34, 127.0.0.1, ::1",Onboarded,Intune,,True
+4hcenter-4,User,Rachel Martin,ACES,HP ProDesk 600 G2 SFF,MXL63129TB,No,mmd,f49cb108-693b-400a-8fe3-9adb81bd2779,4/14/2025 5:11,22H2,19045,22H2,"10.46.70.33, 127.0.0.1, ::1",Onboarded,Intune,,True
+4hcenter-5,User,Jonathan Harrison,ACES,HP ProDesk 600 G2 SFF,MXL63926YT,No,mmd,e9ebc01a-159f-4381-b44b-e18f2d88dca3,4/14/2025 12:24,22H2,19045,22H2,"10.46.70.32, 127.0.0.1, ::1",Onboarded,Intune,,True
+4hcenter-6,User,Erin Dye,ACES,HP ProDesk 600 G2 SFF,MXL6402GRH,No,mmd,40264a0a-840a-4a86-b436-871ddcf9a01e,4/14/2025 12:24,22H2,19045,22H2,"10.46.70.44, 127.0.0.1, ::1",Onboarded,Intune,,True
+acg0134-nbk,User,Alexandra Gotcher,ACES,HP EliteBook 860 16 inch G9,5CG2416NQX,Yes,mmd,29b9acf9-ee8e-4bea-9d1c-99eb0abf2a14,4/14/2025 14:13,22H2,19045,22H2,"172.17.97.130, 127.0.0.1, ::1",Onboarded,Intune,,True
+agadmin-ds1,Zoom Signage,,Zoom Rooms & DS- acesaes account,,,Yes,mmd,,4/14/2025 9:41,21H2,19044,21H2,172.18.92.224,Can be onboarded,Unknown,,True
+agm0018-nbk3,User,Alex Matthews,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG2246C4F,Yes,mmd,e4e1931b-fc0b-4b0e-9f3f-9191cc4f0083,4/14/2025 14:02,22H2,19045,22H2,"131.204.91.171, 127.0.0.1, ::1",Onboarded,Intune,,True
+alf149-haganak,User,Howard Campbell,CoAg,HP ProDesk 600 G3 SFF,2UA7462J0S,No,mmd,29c5263a-8dea-4ce6-9d6b-0ee2aeda11a5,4/14/2025 12:11,22H2,19045,22H2,"131.204.108.171, 127.0.0.1, ::1",Onboarded,Intune,,True
+alf152a-burchkb,User,Katherine Burch,CoAg,HP ProDesk 600 G3 SFF,2UA7462J0N,No,mmd,68d09ccc-b018-4f1d-ac36-d4a8bb57502b,4/14/2025 12:05,22H2,19045,22H2,"131.204.108.182, 127.0.0.1, ::1",Onboarded,Intune,,True
+alf153-sikorej,User,Edward Sikora,CoAg,HP ProDesk 600 G2 SFF,2UA7032230,No,mmd,de063146-a819-4851-ab29-df97ef1c34a5,4/11/2025 17:27,22H2,19045,22H2,"131.204.108.201, 127.0.0.1, ::1",Onboarded,Intune,,True
+alf169-connekn,User,Holly Goodwin,CoAg,HP ProDesk 600 G3 SFF,USH804L0JS,No,mmd,2eeb37a6-303a-47ff-a158-96a7ec9d7a69,4/14/2025 0:07,22H2,19045,22H2,"131.204.108.89, 127.0.0.1, ::1",Onboarded,Intune,,False
+alf170-connekn1,User,Brandice Kopishke,CoAg,HP ProDesk 600 G3 SFF,2UA7262PMX,No,mmd,43a16d92-6865-47c5-93cf-d962f91723a2,4/14/2025 12:00,22H2,19045,22H2,"131.204.108.77, 127.0.0.1, ::1",Onboarded,Intune,,True
+alf223-bhn0001,User,Brenda Norris,CoAg,HP ProDesk 400 G4 SFF,2UA8041F9G,No,mmd,b1f976dd-2f9a-43a6-9ac3-e8ec38bcd5ed,4/14/2025 12:35,22H2,19045,22H2,"131.204.108.151, 127.0.0.1, ::1",Onboarded,Intune,,True
+alfa152b-1,User,Kristie Siggers,CoAg,HP ProDesk 600 G2 SFF,MXL63129T2,No,mmd,d5e4c488-0954-46bc-a18b-18127a7e5aab,4/14/2025 5:38,22H2,19045,22H2,"131.204.108.198, 127.0.0.1, ::1",Onboarded,Intune,,True
+alfa-155,User,Kassie Conner,CoAg,HP ProDesk 600 G3 SFF,2UA8121NTG,No,mmd,d02aefc2-9a21-4faa-812c-6d03e833ac65,4/11/2025 13:21,22H2,19045,22H2,"131.204.108.60, 127.0.0.1, ::1",Onboarded,Intune,,True
+alfa-3,User,Susan Sladden,CoAg,OptiPlex 3050,2JG0WP2,No,mmd,439f3c52-dafc-43ab-85f2-4ebccadda6ea,4/14/2025 14:33,22H2,19045,22H2,"131.204.108.145, 127.0.0.1, ::1",Onboarded,Intune,,False
+alfa-conf-zr,Zoom Signage,,Zoom Rooms & DS- acesaes account,Â HP Z2 Mini G4 WorkstationÂ ,,Yes,mmd,,4/14/2025 9:55,21H1,19043,21H1,131.204.108.169,Can be onboarded,Unknown,,True
+amk0105-nbk2,User,Anita Kelly,CoAg,HP EliteBook 860 16 inch G9 Notebook PC,5CG24149QR,Yes,mmd,967fcc56-4a06-4a58-aaaa-5eb2f7c5ca39,4/14/2025 13:41,22H2,19045,22H2,"10.46.13.44, 127.0.0.1, ::1",Onboarded,Intune,,True
+amm0167-rea,User,Alice Moore,ACES,HP ProBook 650 G2,5CG6112Q1W,No,mmd,e1095b4b-97fa-4dd4-bddb-b693f857a88d,3/17/2025 18:54,22H2,19045,22H2,"10.46.78.30, 127.0.0.1, ::1",Onboarded,Intune,,False
+ams0137-nbk1,,,,,,,mmd,db81b714-7a89-465a-8ca3-f5cb2c83fed1,4/14/2025 1:53,22H2,19045,22H2,"192.168.0.109, 127.0.0.1, ::1",Onboarded,Unknown,,True
+appelag-surf,User,Marla Eva,,Surface Pro 4,37439254953,,mmd,35029755-eb94-43d1-9875-e782b7947d05,4/14/2025 11:52,22H2,19045,22H2,"172.19.248.96, 127.0.0.1, ::1",Onboarded,Intune,,True
+autauga-2,,,ACES,,,No,mmd,6c20cabd-326f-4afb-b05c-e50f66253c70,4/14/2025 12:10,22H2,19045,22H2,"10.46.3.27, 127.0.0.1, ::1",Onboarded,Unknown,,True
+autauga-26,User,Natalie Story,ACES,10MK000SUS,MJ088EQE,No,mmd,68302358-22da-460a-ad42-bf9a740aead8,4/14/2025 12:26,22H2,19045,22H2,"10.46.3.35, 127.0.0.1, ::1",Onboarded,Intune,,True
+AWW-1,,Casic,CoAg,,,No,mmd,9368515b-fd31-4205-a3b3-df66fe8ef6e5,4/14/2025 12:19,22H2,19045,22H2,"131.204.108.150, 127.0.0.1, ::1",Onboarded,Unknown,,False
+bao0004-nbk,,,ACES,,,,mmd,9cdb3ff8-87b2-4f5b-86f1-047eccc32f67,4/10/2025 14:04,1803,17134,1803,"10.7.27.94, 127.0.0.1, ::1",Onboarded,Unknown,,False
+barbour-vconf,Zoom Signage,,ACES,,,No,mmd,f06a064b-34d7-4898-99dc-6838e5d4ee30,4/14/2025 14:15,22H2,19045,22H2,"10.46.6.34, 127.0.0.1, ::1",Onboarded,Unknown,,True
+bauerlj-nbk3,User,Denise Landers,ACES,20H5009HUS,PF12CHNE,Yes,mmd,520d144d-1e98-44aa-b4c3-b18aafe3fa4a,4/10/2025 19:24,1803,17134,1803,"131.204.112.62, 127.0.0.1, ::1",Onboarded,Unknown,,True
+bdi0001-nbk,User,Brian Irvin,ACES,HP EliteBook 850 G8 Notebook PC,5CG2111NLW,Yes,mmd,22ef0671-471f-4cb1-b83d-f8d83b3014c4,4/8/2025 19:12,22H2,19045,22H2,"10.99.18.189, 192.168.0.158, 127.0.0.1, ::1",Onboarded,Intune,,True
+beefunit-3,User,Whitney Blackmon,CoAg,HP ProDesk 600 G2 SFF,2UA7031YGB,No,mmd,32e61c26-2f5f-46ef-9c7b-ae6e49a4d508,4/14/2025 12:17,22H2,19045,22H2,"10.80.18.34, 127.0.0.1, ::1",Onboarded,Intune,,True
+beefunit-4,,,CoAg,,,,mmd,00601f05-9977-44f4-8500-e721c62bc6bf,4/14/2025 10:01,22H2,19045,22H2,"10.80.18.7, 127.0.0.1, ::1",Onboarded,Unknown,,True
+beefunit-5,,,CoAg,,,,mmd,40fa55cf-ec09-473a-b835-423d160972be,4/14/2025 10:00,22H2,19045,22H2,"10.80.18.32, 127.0.0.1, ::1",Onboarded,Unknown,,True
+beelab-01,User,Jasmine Cates,CoAg,HP ProDesk 600 G3 SFF,2UA75212FP,No,mmd,71171a44-a5ce-4911-a035-b0fe138b9432,4/14/2025 14:13,22H2,19045,22H2,"10.200.23.141, 127.0.0.1, ::1",Onboarded,Intune,,True
+bellemina-19,User,David Harkins,AAES,HP Compaq 6200 Pro SFF PC,2UA2050494,No,mmd,1754bffa-d4de-4ca4-9192-8c10e85f5c1e,4/14/2025 12:20,22H2,19045,22H2,"10.46.69.34, 127.0.0.1, ::1",Onboarded,Intune,,False
+beverdd-nbk1,User,Debbie Beverly,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG32303SK,Yes,mmd,ff0070be-14b6-48c5-be3a-bad0bcbf1718,4/14/2025 12:19,22H2,19045,22H2,"10.46.71.32, 127.0.0.1, ::1",Onboarded,Intune,,True
+brl0015-nbk,,,ACES,,,,mmd,cb1aa494-9c56-40d4-afc5-31fb6bd6280d,4/11/2025 18:44,22H2,19045,22H2,"10.46.62.30, 127.0.0.1, ::1",Onboarded,Unknown,,True
+byahut20-sp,,,,,,,Workgroup,29f5be13-76a3-4d70-85fa-562f149f7b92,4/14/2025 9:36,22H2,19045,22H2,"192.168.0.105, 127.0.0.1, fe80::efad:1ea:350d:2263, ::1",Onboarded,Unknown,,True
+bzc0082-nbk,User,Bernardo Chaves-Cordoba,CoAg,HP ZBook Fury 15.6 inch G8 Mobile Workstation PC,CND1390GMF,Yes,mmd,9eab64c7-33df-4122-8e35-8d6baa195e84,4/14/2025 13:09,22H2,19045,22H2,"192.168.68.114, 127.0.0.1, ::1",Onboarded,Intune,,True
+calhoun-7,User,Carmelita Davis,ACES,10UR001LUS,MJ09MPL6,No,mmd,7c74ddd7-254c-457a-9ba7-b1db20c7740f,4/14/2025 12:17,22H2,19045,22H2,"10.46.26.26, 127.0.0.1, ::1",Onboarded,Intune,,True
+calhoun-vconf1,Zoom Signage,,ACES,,,No,mmd,a44b7bb3-5e1a-4741-9ddb-886359246089,4/14/2025 12:24,22H2,19045,22H2,"10.46.27.28, 127.0.0.1, ::1",Onboarded,Unknown,,True
+cardwad-nbk3,User,Angela Cardwell,ACES,HP EliteBook 850 G6,5CG0354L2B,,mmd,8b75bae6-1ebd-4a91-80a5-2489ded17b9c,4/14/2025 12:04,22H2,19045,22H2,"192.168.0.7, 127.0.0.1, ::1",Onboarded,Intune,,True
+casic-109,Conf,Replaced,Technology Enhanced Rooms,,,No,mmd,928a1a73-7f49-49d0-bcea-27ab1acb0b4b,4/14/2025 12:06,22H2,19045,22H2,"10.81.3.135, 127.0.0.1, ::1",Onboarded,Unknown,,False
+cbm0095-nbk,User,Calen Monroe,ACES,HP EliteBook 840 14 inch G9 Notebook PC,5CG2403YX7,Yes,mmd,e5584c01-5642-44ac-a925-d81a99241d98,4/14/2025 12:23,22H2,19045,22H2,"10.46.75.31, 127.0.0.1, ::1",Onboarded,Intune,,True
+cdw0045-nbk,User,Cynthia White,ACES,HP EliteBook x360 1030 G8 Notebook PC,CND12824C3,Yes,mmd,43b0a07e-4b59-440b-9da1-89e104d2879c,4/8/2025 19:42,22H2,19045,22H2,"192.168.0.110, 127.0.0.1, ::1",Onboarded,Intune,,True
+chilton-1-mg,User,Patricia Farmer,ACES,10UR001LUS,MJ08VRHF,No,mmd,67d5e30e-0a74-4a8e-9e5a-ac123f4c6db4,4/14/2025 14:34,22H2,19045,22H2,"10.46.32.27, 127.0.0.1, ::1",Onboarded,Intune,,True
+chriswp-surf,User,Christopher Parker,CoAg,Surface Pro 7+,32485613653,,mmd,4648eda0-9150-4a43-9171-0f91e0bac30c,4/14/2025 0:12,22H2,19045,22H2,"192.168.0.172, 127.0.0.1, ::1",Onboarded,Intune,,True
+clarke-10,User,Jennifer Johnson,ACES,HP ProDesk 600 G2 SFF,2UA6100PX3,No,mmd,8688430e-bc89-4899-a88b-97fc2b3b4944,4/14/2025 12:32,22H2,19045,22H2,"10.46.63.26, 127.0.0.1, ::1",Onboarded,Intune,,True
+clay-8,User,Melissa Willis,ACES,HP ProDesk 600 G1 SFF,2UA5221XV5,No,mmd,0961038d-8df0-486b-859d-44e3ef48dbec,4/12/2025 18:14,22H2,19045,22H2,"10.46.47.30, 127.0.0.1, ::1",Onboarded,Intune,,True
+cld0104-nbk,User,Christina Drummond,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG3204S47,Yes,mmd,caaf9f37-8178-4ace-92ff-db88e5b5c4aa,4/14/2025 13:20,22H2,19045,22H2,"10.46.8.145, 127.0.0.1, ::1",Onboarded,Intune,,True
+cleburne-2,User,Michelle Bain,ACES,HP ProDesk 600 G3 SFF,MXL81629YQ,No,mmd,7ea52af4-14d2-4754-b525-ea6ee60109fe,4/14/2025 14:44,22H2,19045,22H2,"10.46.64.26, 127.0.0.1, ::1",Onboarded,Intune,,True
+clevebc-nbk1,User,Bethany Cleveland,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG2416NSD,Yes,mmd,8cf74224-7051-4382-b9cd-52a9d4ac64f0,4/7/2025 17:13,22H2,19045,22H2,"192.168.1.154, 127.0.0.1, ::1",Onboarded,Intune,,True
+cll0031-nbk,User,Carla Lewis,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG2416N0M,Yes,mmd,dbb0d59e-3ecb-4c21-8eb5-3eb77d00907f,4/11/2025 19:36,22H2,19045,22H2,"172.17.106.215, 127.0.0.1, ::1",Onboarded,Intune,,True
+cmr101-tph0016,User,Timothy Hooper,CoAg,HP ProDesk 600 G3 SFF,2UA8031TFL,No,mmd,04a5dd27-cab7-4197-8c23-d5ad0a121870,4/14/2025 12:59,22H2,19045,22H2,"10.81.3.35, 127.0.0.1, ::1",Onboarded,Intune,,True
+cmr103-alb01582,User,Amy Brock,CoAg,HP Z240 SFF Workstation,2UA7481HNK,No,mmd,c87ea7a9-445d-4bb2-92c2-d21e251626ae,4/14/2025 13:46,22H2,19045,22H2,"10.192.65.140, 127.0.0.1, ::1",Onboarded,Intune,,True
+cmr105a-bsj0015,User,Bethanie Gulley,CoAg,HP Z240 SFF Workstation,2UA8242P52,No,mmd,64a6b009-fcf5-4260-aace-5bcf1d26cf4d,4/14/2025 12:13,22H2,19045,22H2,"131.204.52.9, 127.0.0.1, ::1",Onboarded,Intune,,True
+cmr107-lat0025,User,Alyssa Barrentine,CoAg,HP Z240 SFF Workstation,2UA8122DH8,No,mmd,2e818f26-f7ef-496d-bf53-fe04301748de,4/14/2025 12:04,22H2,19045,22H2,"131.204.52.35, 127.0.0.1, ::1",Onboarded,Intune,,True
+cmr110-student3,,,CoAg,,,,mmd,dcf5384a-1e9c-4720-97ed-9e1398d0ca4a,4/9/2025 18:43,22H2,19045,22H2,"131.204.52.71, 127.0.0.1, ::1",Onboarded,Unknown,,False
+cmr206-azz0023,,,CoAg,,,,mmd,aa92c094-4d7a-44ae-8db4-1c09b71f0a76,4/14/2025 4:39,22H2,19045,22H2,"131.204.52.185, 127.0.0.1, ::1",Onboarded,Unknown,,True
+cmr302-duffypa,User,Patricia Duffy,CoAg,OptiPlex 7050,6QXMJH2,No,mmd,ffafc929-9ed6-42be-b4e2-f2df3c6cecb2,4/14/2025 13:15,22H2,19045,22H2,"192.168.1.4, 127.0.0.1, ::1",Onboarded,Intune,,False
+cmr308a-mrw0016,User,Michelle Worosz,CoAg,HP Z240 Tower,2UA640228T,No,mmd,1ba34668-83b1-4462-a03d-20cc70a2b7c1,4/14/2025 12:26,22H2,19045,22H2,"131.204.52.188, 127.0.0.1, ::1",Onboarded,Intune,,False
+cmr309-nzs0057,,,CoAg,,,,mmd,4cd65f8f-4786-4ed6-ab07-1b766a71dd23,4/14/2025 12:19,22H2,19045,22H2,"131.204.52.66, 127.0.0.1, ::1",Onboarded,Unknown,,True
+cmr312-jmc0180,User,Joel Cuffey,CoAg,HP Z240 SFF Workstation,2UA8242P4Z,No,mmd,4fa9452d-a50f-463a-b4ba-d66b5894f76a,4/14/2025 13:28,22H2,19045,22H2,"131.204.52.166, 127.0.0.1, ::1",Onboarded,Intune,,True
+cmr-ds-left,Zoom Signage,,Zoom Rooms & DS- acesaes account,Azulle Access 4 ,,Yes,mmd,,4/14/2025 3:43,20H2,19042,20H2,172.18.83.13,Can be onboarded,Unknown,,True
+cmr-ds-right,Zoom Signage,,Zoom Rooms & DS- acesaes account,Azulle Access 4,,Yes,mmd,,4/14/2025 3:03,20H2,19042,20H2,172.18.86.74,Can be onboarded,Unknown,,False
+cnm0012-nbk2,User,Christy Mendoza,ACES,20HR006SUS,PF0WJXH4,,mmd,78337f08-6f91-4e32-8837-cb8cfd693b0a,4/10/2025 16:05,22H2,19045,22H2,"172.20.10.7, 127.0.0.1, ::1",Onboarded,Intune,,True
+comer304a-1,Research,Ruiqing Miao,CoAg,Precision Tower 5810,CN8S482,,mmd,0e24c8bb-70a0-46ea-9cb4-62776feab4df,4/14/2025 10:41,22H2,19045,22H2,"131.204.52.160, 127.0.0.1, ::1",Onboarded,Intune,,True
+comer309a-f1,,,CoAg,,,,mmd,8664187d-d4c6-4521-82b0-ce2a0b2b0fb7,3/26/2025 14:22,22H2,19045,22H2,"131.204.52.82, 127.0.0.1, ::1",Onboarded,Unknown,,False
+covington-28,User,Tara Ramer,ACES,10M7000GUS,MJ08QAJL,Yes,mmd,41d29b30-0d17-40c0-bfa6-272dd2048829,4/14/2025 12:04,22H2,19045,22H2,"10.99.16.183, 10.46.45.28, 127.0.0.1, ::1",Onboarded,Intune,,True
+csc205-1,,,CoAg,,,,mmd,1afe1087-6128-4bf1-94c7-bc03e1c3ea2d,4/14/2025 12:11,22H2,19045,22H2,"131.204.108.162, 127.0.0.1, ::1",Onboarded,Unknown,,True
+csc241-mkh0025,,,CoAg,HP ProDesk 600 G1 SFF,2UA5372QZV,No,mmd,7e4e317c-6c51-4119-9dcd-a5563b17225b,4/14/2025 4:54,22H2,19045,22H2,"131.204.120.30, 127.0.0.1, ::1",Onboarded,Intune,,True
+csc295-pwd0003,,,CoAg,,,,auburn.edu,,4/14/2025 6:49,22H2,19045,22H2,10.81.3.29,Can be onboarded,Unknown,,True
+csc327-pwd0003,,,CoAg,,,,mmd,fa42bcca-37df-4872-b7a2-912286b7b825,4/14/2025 12:15,22H2,19045,22H2,"10.81.3.7, 127.0.0.1, ::1",Onboarded,Unknown,,True
+csc393c-sal0010,,,CoAg,,,,mmd,199e8e73-7ae4-4d98-90bd-e4e2551d3dfa,4/14/2025 14:36,22H2,19045,22H2,"10.81.3.8, 127.0.0.1, ::1",Onboarded,Unknown,,True
+cscampc04,,Public Safety,,,,,mmd,a221a5ec-365e-48bd-892a-2c0551e6168e,4/14/2025 12:08,22H2,19045,22H2,"131.204.138.9, 127.0.0.1, fe80::1542:626c:4567:c983, ::1",Onboarded,Unknown,,True
+dallas-3,User,Dionnie Craig,ACES,HP Compaq Pro 6300 SFF,2UA3060VF6,,mmd,bdeea44a-a0fe-4334-aed7-a1633bc196f9,4/10/2025 15:18,22H2,19045,22H2,"10.46.35.32, 127.0.0.1, ::1",Onboarded,Intune,,False
+davisda-lab,User,Indira Medina Torres,CoAg,OptiPlex 3050,GXD69M2,No,mmd,8ea4ddbe-f6ad-42c6-ae31-47c6b78d0f36,4/14/2025 13:37,22H2,19045,22H2,"10.37.25.17, 127.0.0.1, ::1",Onboarded,Intune,,True
+dcn102-kee0010,User,Seth Deloney,ACES,HP ProDesk 600 G3 SFF,MXL82718M4,No,mmd,0983ee67-f7d5-4059-a555-3a9841c2b041,4/7/2025 12:14,22H2,19045,22H2,"131.204.91.141, 127.0.0.1, ::1",Onboarded,Intune,,False
+dcn211-maxwesj,User,Joy Scott,ACES,HP ProDesk 600 G3 SFF,2UA8031TDF,No,mmd,7d0e8eaf-0bac-4390-8317-a3de91229ebd,4/14/2025 12:10,22H2,19045,22H2,"131.204.91.46, 127.0.0.1, ::1",Onboarded,Intune,,True
+dcn213-alexana,User,Nancy Alexander,ACES,OptiPlex 7050,1K3M9N2,No,mmd,e0db6b26-62fa-491b-bc4a-c7d3c972d8bf,4/11/2025 13:05,22H2,19045,22H2,"131.204.91.18, 127.0.0.1, ::1",Onboarded,Intune,,False
+dcn230-zr,Zoom Signage,,Zoom Rooms - acespre,Â HP Z2 Mini G4 WorkstationÂ ,,Yes,mmd,,4/14/2025 2:26,1909,18363,1909,131.204.91.183,Can be onboarded,Unknown,,True
+dcn254-bsw0016,,Kaylani Lafitaga,ACES,HP ProDesk 600 G1 SFF,2UA5342GLG,No,mmd,8a63eb1f-20a9-4338-b574-73ddcfd9ec3e,4/10/2025 16:06,22H2,19045,22H2,"131.204.91.188, 127.0.0.1, ::1",Onboarded,Intune,,True
+dcn255-zr,Zoom Signage,,Zoom Rooms - acespre,Â HP Z2 Mini G4 WorkstationÂ ,,Yes,mmd,,4/14/2025 14:35,1909,18363,1909,10.46.70.46,Can be onboarded,Unknown,,True
+dcn272-conf,Conf,Jonathan Davis,ACES,10AB0010US,MG22A6VL,Yes,mmd,e133ea56-a38b-4a10-84bf-14bbd387e64d,4/14/2025 12:13,22H2,19045,22H2,"131.204.91.175, 127.0.0.1, ::1",Onboarded,Intune,,True
+dhs0006-rea,,,ACES,HP EliteBook 850 G4,5CG8333HCS,,mmd,32a2f9e9-c8d5-4033-9b38-70bc3b1c8809,4/14/2025 12:40,22H2,19045,22H2,"172.19.104.116, 127.0.0.1, ::1",Onboarded,Intune,,True
+dlh0020-nbk3,User,Desiree Hutcherson-Bates,ACES,HP ProBook 650 G2,5CG7400V5Z,No,mmd,33d21457-57f8-49e9-8417-bc1ea2d8d5d0,4/14/2025 2:39,21H1,19043,21H1,"192.168.1.71, 127.0.0.1, ::1",Onboarded,Intune,,False
+donaljo-nbk1,,,CoAg,,,,mmd,0d3c7e7f-13e7-4963-89e2-c43b7e41700a,4/14/2025 12:17,22H2,19045,22H2,"192.168.1.7, 127.0.0.1, ::1",Onboarded,Unknown,,True
+dormitv-nbk,User,Teresa Dormitorio,CoAg,HP Elite x360 830 13 inch G9 2-in-1 Notebook PC,5CG3030B6T,Yes,mmd,fb5f7313-9b84-4ed6-82db-099a04fc3b9c,4/14/2025 3:30,22H2,19045,22H2,"192.168.1.113, 127.0.0.1, ::1",Onboarded,Intune,,True
+dortcsa-nbk,User,Syreeta Clay,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG2246C94,Yes,mmd,1d866e51-096e-40c6-add6-170ea11e2e9e,4/14/2025 12:42,22H2,19045,22H2,"192.168.1.10, 127.0.0.1, ::1",Onboarded,Intune,,True
+dpr0013-nbk2,User,Kelli Russell,ACES,HP ProBook 650 G2,5CG6316LVM,No,mmd,dcd93e10-37b8-4572-b6b9-cdda978721db,4/14/2025 13:26,22H2,19045,22H2,"172.19.160.156, 127.0.0.1, ::1",Onboarded,Intune,,False
+duncan224-1,User,John Hartley,ACES,HP Z230 Tower Workstation,2UA5530JXQ,No,mmd,b91c120e-2246-4030-83b0-08f6b9fc796a,4/14/2025 12:26,22H2,19045,22H2,"131.204.91.19, 127.0.0.1, ::1",Onboarded,Intune,,True
+Duncan4hDs,Zoom Signage,,,,,,,,4/5/2025 6:18,2004,19041,2004,172.17.146.213,Can be onboarded,Unknown,,True
+econgta-14,,CLA,none,,,,mmd,a8ac4b6e-b7f2-4b99-8532-fb8bd572ae97,4/14/2025 12:04,22H2,19045,22H2,"10.204.5.24, 127.0.0.1, fe80::5fd1:eae1:309f:34b1, ::1",Onboarded,Unknown,,False
+ekl0008-nbk,User,Katie Lee,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG2376Y6S,Yes,mmd,54e84d9a-746b-4d57-8678-b04ea98b691a,4/11/2025 16:23,22H2,19045,22H2,"172.17.184.88, 127.0.0.1, ::1",Onboarded,Intune,,True
+escambia-3,User,Traci Vickery,ACES,HP Compaq 8100 Elite CMT PC,2UA1130DRH,,mmd,9a0ba596-e0ba-406f-aef3-9b3abf24597f,4/14/2025 13:18,21H2,19044,21H2,"10.46.55.34, 127.0.0.1, ::1",Onboarded,Intune,,True
+escambia-5,User,Sheila McDonald,ACES,HP ProDesk 600 G2 SFF,MXL63129TR,No,mmd,d904c236-11c3-476d-9094-0f15edef64b9,4/1/2025 23:12,22H2,19045,22H2,"10.46.54.35, 127.0.0.1, ::1",Onboarded,Intune,,False
+etowah-1-mg,,,ACES,,,,mmd,297de4b5-5954-4072-b9a8-74385d862de5,4/6/2025 17:44,22H2,19045,22H2,"10.46.8.141, 127.0.0.1, ::1",Onboarded,Unknown,,True
+etowah-29,User,Jennifer Strawn,ACES,10MK000SUS,MJ08KWGR,Yes,mmd,b8e0a2c3-d15b-46ed-a864-9c57bd5d007a,4/14/2025 0:07,22H2,19045,22H2,"10.46.8.48, 127.0.0.1, ::1",Onboarded,Intune,,True
+ext120-balldon,,,ACES,,,,mmd,fc8ef30b-58d0-455b-a090-f5d86d4ad2bf,4/9/2025 22:10,22H2,19045,22H2,"131.204.108.193, 127.0.0.1, ::1",Onboarded,Unknown,,True
+ext203-huxingp,User,Xing Ping Hu,ACES,OptiPlex 7050,HXW5CP2,No,mmd,20eba6ac-420e-4b46-9e0b-92fea578f847,4/14/2025 12:11,22H2,19045,22H2,"131.204.108.22, 127.0.0.1, ::1",Onboarded,Intune,,True
+fayette-15,User,Kristi Baggett,ACES,10M7000GUS,MJ086NAM,Yes,mmd,fb992b21-b93d-4f70-970e-24b7a6ccde7d,4/14/2025 13:49,22H2,19045,22H2,"10.46.80.32, 127.0.0.1, ::1",Onboarded,Intune,,True
+fishfarm-19,User,John Jones,CoAg,HP Z230 Tower Workstation,2UA5530JYM,No,mmd,2dd5df4b-cb30-4a72-85ca-94fea04e03c8,4/14/2025 12:02,22H2,19045,22H2,"10.37.23.72, 127.0.0.1, ::1",Onboarded,Intune,,True
+fishfarm-7,,,CoAg,,,,mmd,66cc84ca-54e7-49fe-a3c7-57e106837781,4/14/2025 14:21,22H2,19045,22H2,"10.46.13.47, 127.0.0.1, ::1",Onboarded,Unknown,,True
+fishgen-1,User,Mei Shang,CoAg,HP Compaq Elite 8300 CMT,2UA23517LJ,No,mmd,70993ddf-4f05-43e4-8b9a-26a8bb656935,4/14/2025 0:25,22H2,19045,22H2,"10.37.25.8, 127.0.0.1, ::1",Onboarded,Intune,,True
+fnc212-shawjo1,User,Tia Gonzales,CoAg,HP ProDesk 600 G3 MT,2UA8152NCP,No,mmd,1917c451-e7be-466b-a9fa-721189aa7b4a,4/11/2025 18:26,21H1,19043,21H1,"131.204.60.99, 127.0.0.1, ::1",Onboarded,Intune,,True
+fnc366-appelag,User,Arthur Appel,CoAg,HP EliteDesk 800 G3 TWR,2UA7292QTN,,mmd,4536c1ce-a2e2-4e37-a588-f3c5b6d2eaea,4/14/2025 12:21,22H2,19045,22H2,"131.204.60.3, 127.0.0.1, ::1",Onboarded,Intune,,True
+franklin-2,User,Katernia Cole,ACES,HP ProDesk 600 G2 SFF,2UA6461VDH,No,mmd,7e5c2873-e0ef-4a07-96cc-0b8530bb38ad,4/14/2025 8:03,22H2,19045,22H2,"10.46.74.28, 127.0.0.1, ::1",Onboarded,Intune,,True
+fun101-lom0007,User,Leanne Meacham,CoAg,10MK000HUS,MJ08V4SE,Yes,mmd,ccf8b98f-8d05-4851-846a-60455d3dabc6,4/14/2025 12:56,22H2,19045,22H2,"131.204.61.48, 127.0.0.1, ::1",Onboarded,Intune,,True
+fun101-student,User,Daniel Wells,CoAg,HP Z240 SFF Workstation,2UA82329ZJ,No,mmd,dea049ff-b009-42ef-b514-c7a4e4591671,4/14/2025 8:24,22H2,19045,22H2,"131.204.61.86, 127.0.0.1, ::1",Onboarded,Intune,,True
+fun105-vpm0003,,,CoAg,,,,mmd,24986f7c-e1e7-4310-9bb3-6197ff33cbe4,4/7/2025 18:58,22H2,19045,22H2,"10.81.3.165, 127.0.0.1, ::1",Onboarded,Unknown,,True
+fun113-kessljr,,,CoAg,,,,mmd,cd303820-b8a9-40e0-a788-f8c4aad0a7f7,4/14/2025 12:16,22H2,19045,22H2,"131.204.60.67, 127.0.0.1, ::1",Onboarded,Unknown,,True
+fun133-jdm0090,User,Zac Jones,CoAg,OptiPlex 3050,4Z34GQ2,No,mmd,032db875-c93f-4902-957b-ac165e8f67ad,4/14/2025 12:01,22H2,19045,22H2,"131.204.61.98, 127.0.0.1, ::1",Onboarded,Intune,,True
+fun153-mnw0018,,,CoAg,,,,mmd,a3fd587c-8a9b-4bf3-b4af-f2ddb55de46e,4/9/2025 20:44,22H2,19045,22H2,"10.200.23.24, 127.0.0.1, ::1",Onboarded,Unknown,,False
+fun158-class,Classroom,,Technology Enhanced Rooms,,,,mmd,4e20b3bf-1092-4606-8b01-9f7b1a40fa61,4/14/2025 10:15,22H2,19045,22H2,"131.204.60.25, 127.0.0.1, ::1",Onboarded,Unknown,,True
+fun160-class,Classroom,,Technology Enhanced Rooms,HP ProDesk 600 G3 sff,,No,mmd,4c111188-e7c7-4cc2-854b-4f26c794b6b2,4/14/2025 12:06,22H2,19045,22H2,"131.204.61.63, 127.0.0.1, ::1",Onboarded,Unknown,,True
+fun165-lab,,,CoAg,,,,mmd,567a20d8-5eb3-41ea-9b26-d2ea96a683dc,4/14/2025 12:24,22H2,19045,22H2,"131.204.61.77, 127.0.0.1, ::1",Onboarded,Unknown,,True
+fun201-wehtjgr,,Cory Unruh,CoAg,HP ProDesk 600 G3 SFF,2UA7351T16,No,mmd,aae4801b-2f69-4de7-a9eb-dc7b55a8fbfe,4/14/2025 12:10,22H2,19045,22H2,"131.204.61.75, 127.0.0.1, ::1",Onboarded,Intune,,True
+fun202-mzv0043,,,CoAg,,,,mmd,43dbf0be-c04b-41c7-8f86-c97501e5d2be,4/14/2025 12:13,22H2,19045,22H2,"10.200.23.140, 127.0.0.1, ::1",Onboarded,Unknown,,True
+fun202-stenslm,,Lee Stenson-Haupert,CoAg,HP ProDesk 600 G3 SFF,2UA7351T14,No,mmd,7b594dab-5f86-4e9c-9b43-755451dd4e9f,4/14/2025 12:16,22H2,19045,22H2,"131.204.60.51, 127.0.0.1, ::1",Onboarded,Intune,,True
+fun205-whw0008,,,CoAg,,,,mmd,8859dbe8-924a-4405-9ae2-38a1ab216ff2,4/14/2025 12:10,22H2,19045,22H2,"131.204.61.66, 127.0.0.1, ::1",Onboarded,Unknown,,True
+fun208-class,Classroom,,Technology Enhanced Rooms,HP ProDesk 600 G3 sff,,No,mmd,d41bef3a-124d-44ca-a11a-0ef5e36d09c6,4/13/2025 22:16,1909,18363,1909,"131.204.61.97, 127.0.0.1, ::1",Onboarded,Unknown,,True
+fun214-tjk0013,User,Kathryne Bowling,CoAg,Veriton M4640G,DTVMTAA003647038FE3000,,mmd,259a0e9a-d96d-4e75-8aa7-02a6db246556,3/27/2025 14:25,22H2,19045,22H2,"131.204.60.92, 127.0.0.1, ::1",Onboarded,Intune,,False
+fun235-avg0001,User,Audrey Gamble,CoAg,Precision T1700,JKZSC42,,mmd,552c3b1b-37f1-44f1-a74d-ba89e94a1c36,4/14/2025 12:03,22H2,19045,22H2,"131.204.61.5, 127.0.0.1, ::1",Onboarded,Intune,,True
+fun253-azs0223,User,Alvaro Sanz Saez de Jauregui,CoAg,HP Z240 SFF Workstation,2UA8242P51,No,mmd,b51bd04d-e438-4861-a7b8-d09c1de091f1,4/14/2025 5:17,1803,17134,1803,"131.204.60.39, 127.0.0.1, ::1",Onboarded,Unknown,,False
+fun271-jzw0082,,,CoAg,,,,mmd,cc23702a-f278-4597-b5fe-8aa4de7acd7f,4/14/2025 12:06,22H2,19045,22H2,"131.204.60.50, 127.0.0.1, ::1",Onboarded,Unknown,,True
+fun283-1,,,CoAg,,,,mmd,df948017-c32d-4a70-aea3-b316a0f2a5bc,4/14/2025 12:29,22H2,19045,22H2,"131.204.61.58, 127.0.0.1, ::1",Onboarded,Unknown,,True
+fun285-lab,,Thorsten Knappenberger,CoAg,HP ProDesk 600 G2 SFF,MXL6122SXR,No,mmd,94130c53-686a-4dca-b5f9-4d4f35b89bc2,4/14/2025 6:03,22H2,19045,22H2,"131.204.60.44, 127.0.0.1, ::1",Onboarded,Intune,,True
+fun301-svb0004,,Sharon Bozeman,CoAg,10MK000MUS,MJ088MZA,Yes,mmd,a8355206-b983-452e-92ab-fe6569ba9bcc,4/14/2025 12:12,22H2,19045,22H2,"131.204.60.31, 127.0.0.1, ::1",Onboarded,Intune,,True
+fun372-appelag,,,CoAg,,,,mmd,9deaf6f0-9d68-484f-a05d-a9e2c416d7da,4/14/2025 12:07,1709,16299,1709,"172.19.134.90, 127.0.0.1, ::1",Onboarded,Unknown,,True
+fun372-appelag2,,Marla Eva,CoAg,OptiPlex 7050,2DJ2DP2,No,mmd,220e0b4b-75f4-428f-b81d-25b4e7d7a646,4/10/2025 3:31,22H2,19045,22H2,"172.17.161.237, 127.0.0.1, ::1",Onboarded,Intune,,False
+fun372-tanlemj,,Marla Eva,CoAg,OptiPlex 7050,DX0DMN2,No,mmd,f13c19cb-e194-48d8-8225-6d2f7a3f1545,4/14/2025 12:13,22H2,19045,22H2,"131.204.60.12, 127.0.0.1, ::1",Onboarded,Intune,,True
+funchess203-1,Classroom,,Technology Enhanced Rooms,,,,mmd,a17aa458-c03f-4a86-895a-d0d3400881cd,4/13/2025 22:31,1909,18363,1909,"131.204.61.90, 127.0.0.1, ::1",Onboarded,Unknown,,True
+funchess301-25,,,,,,,auburn.edu,,4/14/2025 3:41,22H2,19045,22H2,131.204.112.93,Can be onboarded,Unknown,,True
+geneup01,,,CoAg,,,,mmd,,4/14/2025 13:02,1607,14393,1607,,Onboarded,Unknown,,True
+geneva-1,User,Julia Strickland,ACES,HP ProDesk 600 G2 SFF,2UA6513025,No,mmd,5267c335-bc17-4f56-a382-cac4bc0db136,4/14/2025 1:10,22H2,19045,22H2,"10.46.76.26, 127.0.0.1, ::1",Onboarded,Intune,,True
+gnn0002-nbk,,,ACES,,,,mmd,cae9f195-5e1e-4e71-a419-9a7db7b22bf9,4/11/2025 21:45,21H1,19043,21H1,"192.168.1.167, 127.0.0.1, ::1",Onboarded,Intune,,True
+gnn0002-nbk1,User,Gina Nimmo,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG3204S6B,Yes,mmd,067b763d-e3a8-4756-9f57-c032a1932817,4/14/2025 14:36,22H2,19045,22H2,"172.17.73.85, 127.0.0.1, ::1",Onboarded,Intune,,True
+grahamfarm-2,User,Donna Sands,ACES,HP Compaq 6200 Pro SFF PC,2UA2061G4J,No,mmd,96455938-de54-4311-8b6b-45f12dc32abb,4/8/2025 9:57,22H2,19045,22H2,"10.46.92.30, 127.0.0.1, ::1",Onboarded,Intune,,True
+gulfcst-28,User,Kyle Owsley,AAES,HP ProDesk 600 G3 SFF,2UA7351T1L,No,mmd,dbe4ffc0-b738-4745-a93c-cf1ff143f8a7,4/4/2025 12:39,22H2,19045,22H2,"10.46.67.30, 127.0.0.1, ::1",Onboarded,Intune,,False
+gulfcst-33,User,Bryan Wilkins,AAES,OptiPlex 3020,DBKY942,,mmd,6f89c451-58a7-4b84-8a82-f8aa3ed9272e,4/14/2025 12:02,22H2,19045,22H2,"10.46.5.48, 127.0.0.1, ::1",Onboarded,Intune,,True
+haganak-nbk2,User,Austin Hagan,ACES,Latitude 7400,4Q9G2Z2,,mmd,b2cad6d2-00f8-42f9-b9dd-7f714abb92b0,4/14/2025 12:20,22H2,19045,22H2,"192.168.1.2, 127.0.0.1, ::1",Onboarded,Intune,,False
+haganak-nbk3,User,Austin Hagan,ACES,HP 470 G7 Notebook PC,5CG0208NZF,,mmd,5bde035a-34bc-4060-8222-9224b6b18ffc,4/9/2025 17:36,22H2,19045,22H2,"169.254.125.242, 172.19.64.82, 127.0.0.1, ::1",Onboarded,Intune,,False
+hale-15,User,Jovita Lewis,ACES,10M7000GUS,MJ08DFMY,Yes,mmd,bb4fa7a2-bb5c-4910-bcb8-9ede597d6f49,4/14/2025 14:35,22H2,19045,22H2,"10.46.14.27, 127.0.0.1, ::1",Onboarded,Intune,,True
+harrij5-nbk3,,,CoAg,,,,mmd,7d457a21-59c9-4fe4-9071-748be892fa20,3/22/2025 20:10,22H2,19045,22H2,"192.168.1.80, 127.0.0.1, ::1",Onboarded,Intune,,False
+harriwb-nbk,User,Rosie Landers,ACES,HP EliteBook 850 G5,5CG929860T,,mmd,2c49df4b-1770-4d20-b06e-2019e423ff67,4/14/2025 12:55,1909,18363,1909,"192.168.0.173, 127.0.0.1, ::1",Onboarded,Intune,,True
+hessjos-nbk,,,ACES,,,,mmd,7741080f-d997-404f-84f2-961b5b6052c8,4/13/2025 15:05,22H2,19045,22H2,"192.168.1.142, 127.0.0.1, ::1",Onboarded,Unknown,,True
+hillmb1-nbk,User,Barbara Hillman,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG2416N5V,Yes,mmd,854da9d1-0df7-4dc5-b44b-fa8eb82174bb,4/14/2025 14:38,22H2,19045,22H2,"192.168.2.60, 127.0.0.1, ::1",Onboarded,Intune,,True
+hippy-3,User,Melissa Higginbotham,ACES,Latitude 3320,548TQG3,,mmd,7b745aca-bd91-4653-a4f3-8ceaab1c774e,3/31/2025 18:21,22H2,19045,22H2,"192.168.0.54, 127.0.0.1, ::1",Onboarded,Intune,,False
+hlt0005-nbk2,User,Heidi Tilenius,ACES,HP ProBook 650 G2,5CG6240LM3,No,mmd,690e28b1-fddf-4b15-b572-1bfde40a4c2c,4/11/2025 18:16,22H2,19045,22H2,"10.46.46.33, 127.0.0.1, ::1",Onboarded,Intune,,True
+hopeplace-1,User,Karren Luttrell,ACES,HP ProDesk 600 G1 SFF,2UA5212B5S,No,mmd,4c266829-123d-498c-ba41-4f216d064b7e,4/14/2025 8:28,22H2,19045,22H2,"10.46.55.26, 127.0.0.1, ::1",Onboarded,Intune,,True
+hopeplace-10,,,ACES,,,,mmd,1ba218eb-8fed-453e-8612-7c5674ae38f9,4/14/2025 5:41,22H2,19045,22H2,"10.46.55.33, 127.0.0.1, ::1",Onboarded,Unknown,,True
+hopeplace-14,User,L. Kay Sherrer,ACES,HP ProDesk 600 G1 SFF,2UA5212B5K,No,mmd,c4f0f6a9-336f-4f44-8a6b-bb377098fc03,4/14/2025 14:34,22H2,19045,22H2,"10.46.55.31, 127.0.0.1, ::1",Onboarded,Intune,,True
+houston-30,User,Micah Johnson,ACES,HP ProDesk 600 G3 SFF,2UA80219KY,No,mmd,4f18f3c9-cc6b-442d-84d9-6ad9f6ff84c5,4/14/2025 13:14,22H2,19045,22H2,"10.46.7.27, 127.0.0.1, ::1",Onboarded,Intune,,True
+hzk0083-nbk,,,CoAg,OptiPlex 3080,GJB9PK3,,mmd,33e1abfc-a2e3-4995-94db-71d820074213,4/14/2025 12:04,22H2,19045,22H2,"10.200.23.144, 127.0.0.1, ::1",Onboarded,Intune,,True
+jackson-15,User,Kimberly Cagle,ACES,10MK000SUS,MJ088EQ9,Yes,mmd,a9f8e071-98f9-4af0-9864-1342a7238ec9,4/14/2025 12:23,22H2,19045,22H2,"10.46.4.31, 127.0.0.1, ::1",Onboarded,Intune,,True
+jdp0078-nbk,User,Jinesh Patel,CoAg,20L70023US,PC0WLQYV,,mmd,191074cb-d98d-4279-a916-b131b40c5a30,4/7/2025 2:30,22H2,19045,22H2,"192.168.1.76, 127.0.0.1, ::1",Onboarded,Intune,,True
+jds0073-nbk2,,,CoAg,,,,mmd,6eeb6815-512c-43e0-87e2-83352d385d26,4/2/2025 17:01,22H2,19045,22H2,"172.19.243.102, 127.0.0.1, ::1",Onboarded,Unknown,,False
+jep0069-nbk1,User,Jennifer Palmer,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG2273ZXW,Yes,mmd,9b843675-636f-4da7-a54f-e94b4581eae5,4/14/2025 13:29,22H2,19045,22H2,"172.17.146.228, 127.0.0.1, ::1",Onboarded,Intune,,True
+jkb0016-nbk2,User,Jonathan Flathman,CoAg,HP ProBook 650 G1,5CG4410FTF,No,mmd,470d2d9a-687b-4253-a56d-a7637c84a791,4/14/2025 12:07,22H2,19045,22H2,"172.19.173.144, 127.0.0.1, ::1",Onboarded,Intune,,False
+jms0172-nbk,User,Jerry Smith,ACES,HP ProBook 650 G3,5CG7151F1V,No,mmd,0c3bf3da-cdb2-4ee0-8cc9-cfff320bf428,4/14/2025 12:10,22H2,19045,22H2,"10.46.81.36, 127.0.0.1, ::1",Onboarded,Intune,,True
+johns16-nbk2,User,Janet Johnson,ACES,HP ProBook 650 G1,CNU415B4RY,No,mmd,324f89c8-0208-4016-b801-b6cb3c9e08ed,4/14/2025 1:15,22H2,19045,22H2,"10.99.19.78, 192.168.0.4, 127.0.0.1, ::1",Onboarded,Intune,,True
+jones57-rea,User,Mallory Kelley,ACES,HP ProBook 650 G1,5CG5527V00,No,mmd,895c0b42-dfb6-40fc-9d6f-5ceb026f17a1,4/11/2025 13:29,22H2,19045,22H2,"192.168.86.24, 127.0.0.1, ::1",Onboarded,Intune,,True
+jtn0003-nbk3,User,John Nabors,ACES,HP EliteBook 850 G5,5CG92986Q6,,mmd,5ceb92ed-d188-47d0-afb1-5d31c61aa9b6,4/14/2025 12:09,1909,18363,1909,"192.168.12.210, 127.0.0.1, ::1",Onboarded,Intune,,True
+jwc0071-nbk,User,John Cameron,ACES,HP ProBook 650 G4,5CG9185Z2C,,mmd,31c081f8-4616-4b31-86aa-98d61dcf0c6c,3/24/2025 13:20,22H2,19045,22H2,"172.17.201.171, 127.0.0.1, ::1",Onboarded,Intune,,False
+jzt0048-nbk,User,Jacob Turner,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG24165M1,Yes,mmd,91d54021-c301-465f-bbc8-2b250dc86cd2,4/13/2025 22:37,22H2,19045,22H2,"192.168.1.89, 127.0.0.1, ::1",Onboarded,Intune,,True
+kms0140-nbk2,User,Kristen Sanders,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG2273ZXP,Yes,mmd,5a98f437-9a75-41b0-a176-ab921fa9673b,4/14/2025 13:35,22H2,19045,22H2,"10.46.20.28, 127.0.0.1, ::1",Onboarded,Intune,,True
+lauderdale-1,User,Whitney Wilcoxson,ACES,HP ProDesk 600 G1 SFF,2UA5010X5D,No,mmd,32cd39ef-eaf9-445b-960c-7ab76de48565,4/14/2025 12:24,22H2,19045,22H2,"10.46.46.28, 127.0.0.1, ::1",Onboarded,Intune,,True
+lauderdale-2,User,Jeffrey Calvert,ACES,HP ProDesk 600 G2 SFF,2UA6242N4Y,No,mmd,a0b70fb7-d028-4cb8-8ba4-2f3d0fedbfde,4/14/2025 14:35,22H2,19045,22H2,"10.46.46.30, 127.0.0.1, ::1",Onboarded,Intune,,True
+lauderdale-7-mg,,,ACES,,,,mmd,526ea58a-1904-4e0b-9465-ca4d43bed57b,4/14/2025 0:33,22H2,19045,22H2,"10.46.46.34, 127.0.0.1, ::1",Onboarded,Unknown,,True
+lawerkk-nbk6,User,Kathy Lawrence,CoAg,HP EliteBook 840 G7 Notebook PC,5CG112CC8N,,mmd,296543f4-7a73-42a0-b220-b159317197c5,4/14/2025 13:46,22H2,19045,22H2,"192.168.1.227, 127.0.0.1, ::1",Onboarded,Intune,,True
+lawrence-2,User,Shannon Murray,ACES,HP ProDesk 600 G2 SFF,MXL63129SZ,No,mmd,5e701c8b-ac55-416b-94b0-6c9786ad4ac3,4/14/2025 13:24,22H2,19045,22H2,"10.46.73.30, 127.0.0.1, ::1",Onboarded,Intune,,False
+lee-18,User,Gina Nimmo,ACES,HP ProDesk 600 G3 SFF,2UA81126KF,No,mmd,9897d5e5-2bc1-475a-9280-9c54dad79eee,4/14/2025 12:05,22H2,19045,22H2,"10.46.10.28, 127.0.0.1, ::1",Onboarded,Intune,,True
+lee-mg2,,,ACES,,,,mmd,71a99e94-87c7-4f89-8a16-aa7eb5289db9,4/14/2025 14:10,22H2,19045,22H2,"10.46.10.46, 127.0.0.1, ::1",Onboarded,Unknown,,True
+lee-nbk1,,,ACES,,,,mmd,f0fe7414-b0b3-4c8f-a0b1-42d9d20b97de,4/3/2025 16:08,21H1,19043,21H1,"172.20.10.5, 127.0.0.1, ::1",Onboarded,Unknown,,False
+leerach-rea2,User,Robin Schuitema,ACES,HP ProBook 650 G2,5CG72934HD,No,mmd,b2ba3499-0123-4491-a610-bafeb8c23a8f,4/14/2025 12:14,22H2,19045,22H2,"10.46.0.34, 127.0.0.1, ::1",Onboarded,Intune,,False
+lef0022-nbk,User,Leticia Fantini Hoag,CoAg,HP EliteBook 840 G5,5CG84027WD,,mmd,b84a01fb-2a19-4cb2-811a-7e37f10a82fc,4/12/2025 0:03,22H2,19045,22H2,"192.168.1.77, 127.0.0.1, ::1",Onboarded,Intune,,True
+lowndes-2,User,Tana Shealey,ACES,HP ProDesk 600 G2 SFF,2UA6252P1Q,No,mmd,18a6f6d0-866b-441e-9ab0-fa2d4d2429ee,4/7/2025 19:46,22H2,19045,22H2,"10.46.16.26, 127.0.0.1, ::1",Onboarded,Intune,,False
+lucialab-01,Classroom,CLA,CLA,CLA,,,mmd,0f1e2b55-31bc-442e-b312-a9881f9063c9,4/14/2025 12:08,22H2,19045,22H2,"131.204.100.16, 127.0.0.1, fe80::e521:af0d:a40:ad40, ::1",Onboarded,Unknown,,True
+lucialab-02,Classroom,CLA,CLA,CLA,,,mmd,8cd7de0b-397b-4f9a-8175-35d88cc6af7b,4/14/2025 12:12,22H2,19045,22H2,"131.204.100.10, 127.0.0.1, fe80::9803:234f:9b8d:995c, ::1",Onboarded,Unknown,,True
+madison-31,,,ACES,HP Compaq Pro 6300 SFF,2UA2470GYW,,mmd,0b493665-2fba-4263-9c43-5927b0d405d1,4/14/2025 12:08,22H2,19045,22H2,"10.46.56.33, 127.0.0.1, ::1",Onboarded,Intune,,True
+mdb0035-nbk,User,Angela Reiff,ACES,HP ProBook 650 G1,5CG5203KPT,No,mmd,64749c42-9789-4b39-a2e9-8da2b1003f87,4/14/2025 13:18,22H2,19045,22H2,"10.46.0.36, 127.0.0.1, ::1",Onboarded,Intune,,True
+mek0082-nbk,User,Elizabeth Kohen,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG2416MQ9,Yes,mmd,4269672a-252b-47aa-9e14-208f501fc02f,4/14/2025 13:02,22H2,19045,22H2,"10.46.29.29, 172.19.168.219, 127.0.0.1, ::1",Onboarded,Intune,,True
+mew0071-nbk,User,Kelly Pippin,CoAg,Latitude E7450,8N7SF72,,mmd,6c0c8e3c-5023-4db7-bc53-ae199dede6d4,4/9/2025 0:53,21H1,19043,21H1,"192.168.4.91, 127.0.0.1, ::1",Onboarded,Intune,,True
+mjc0023-nbk6,User,Matthew Catalano,CoAg,HP ZBook 15 G3,CND6506FW6,,mmd,b8f9ef80-8848-4e24-9cf8-28bac8e47bb2,4/14/2025 14:03,22H2,19045,22H2,"131.204.37.146, 127.0.0.1, ::1",Onboarded,Intune,,True
+mlg0005-nbk2,,,ACES,,,,mmd,6c303c4d-624d-4f9f-bdbc-febe38a4dbde,4/13/2025 15:48,22H2,19045,22H2,"192.168.1.100, 127.0.0.1, ::1",Onboarded,Unknown,,True
+mmp0073-nbk,User,Michelle Puckett,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG24165MQ,Yes,mmd,da61eebf-41d0-46f9-b09c-713d0743ec38,4/14/2025 13:29,22H2,19045,22H2,"10.46.6.32, 127.0.0.1, ::1",Onboarded,Intune,,True
+mmurphee-nbk,User,Millie Murphree,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG2273ZZ0,Yes,mmd,304dda62-359c-4f0b-86e9-eb90b5902762,4/12/2025 15:11,22H2,19045,22H2,"192.168.0.37, 127.0.0.1, ::1",Onboarded,Intune,,True
+mobile-1-mg,,,ACES,,,,mmd,85f972c9-ba36-43cc-8dca-acf7fa089ee7,3/28/2025 12:01,22H2,19045,22H2,"10.46.66.34, 127.0.0.1, ::1",Onboarded,Unknown,,True
+nafish-21,User,Allen Davis,CoAg,OptiPlex 9020,31SLQ02,No,mmd,63a5b125-366f-4a7a-b4d3-28d41264c816,4/5/2025 13:28,22H2,19045,22H2,"172.19.9.171, 127.0.0.1, ::1",Onboarded,Intune,,False
+nafish-5,,,CoAg,HP ProDesk 600 G1 SFF,MXL410015Q,No,mmd,ad2e0510-142e-4f2b-8e24-90260144491b,4/11/2025 18:03,22H2,19045,22H2,"10.37.25.77, 127.0.0.1, ::1",Onboarded,Intune,,True
+northfish-17,,,CoAg,,,,mmd,e794d314-e748-43c1-ab5e-8e4768141b69,4/14/2025 12:17,22H2,19045,22H2,"10.37.25.35, 127.0.0.1, ::1",Onboarded,Unknown,,True
+northfish-22,User,Dan Bryant,CoAg,OptiPlex 9020,5F02C62,No,mmd,ceefbbd6-13b8-4637-b5df-88fe370f5ee3,4/14/2025 12:06,22H2,19045,22H2,"10.37.25.88, 127.0.0.1, ::1",Onboarded,Intune,,True
+padgewp-nbk6,User,Wendy Padgett,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG3230R66,Yes,mmd,28c84fe8-cc57-4aca-958c-b364c0165aca,4/14/2025 13:33,22H2,19045,22H2,"10.46.63.30, 127.0.0.1, ::1",Onboarded,Intune,,True
+peguemd-nbk3,,,CoAg,,,,mmd,60134d72-350c-45dd-b3cb-a7f423be6df1,4/14/2025 14:38,22H2,19045,22H2,"10.46.5.51, 127.0.0.1, ::1",Onboarded,Unknown,,True
+pickejm-x360,User,Jeremy Pickens,CoAg,HP Elite x360 830 13 inch G9 2-in-1 Notebook PC,5CG251627H,Yes,mmd,6b71f4d9-391d-4602-9286-29395c0874cb,4/14/2025 13:12,22H2,19045,22H2,"10.46.67.31, 127.0.0.1, ::1",Onboarded,Intune,,True
+pittsja-nbk1,User,Lisa McCullough,CoAg,HP ProBook 650 G1,CNU419BP4R,No,mmd,526949de-a53d-4338-b656-7db8017aae30,4/14/2025 12:08,22H2,19045,22H2,"192.168.0.9, 127.0.0.1, ::1",Onboarded,Intune,,False
+potterj-nbk,,,ACES,,,,mmd,4fe96f1c-bc69-4890-8c08-1bb571872363,4/14/2025 13:38,22H2,19045,22H2,"172.23.203.242, 127.0.0.1, ::1",Onboarded,Unknown,,True
+poultry201b-zr,,,Zoom Rooms - agpre,Â HP Z2 Mini G4 WorkstationÂ ,,Yes,mmd,,4/14/2025 5:14,22H2,19045,22H2,131.204.112.97,Can be onboarded,Unknown,,True
+poultry215-16,,,CoAg,,,,auburn.edu,,4/14/2025 6:33,22H2,19045,22H2,131.204.112.31,Can be onboarded,Unknown,,True
+poultry250-1,User,Sofia Sierra Melendrez,CoAg,10GT002SUS,MJ047U43,Yes,mmd,22fd8432-54d5-41d2-baf8-a19f792c67d7,4/14/2025 12:04,22H2,19045,22H2,"131.204.112.35, 127.0.0.1, ::1",Onboarded,Intune,,True
+poultry346-2,Other,Michelle Hayden,CoAg,Aspire T3-710,DTB1HAA00760203F273000,,mmd,4747f69f-252d-4bf9-b01f-818530e0fe81,4/14/2025 14:04,22H2,19045,22H2,"10.200.62.138, 127.0.0.1, ::1",Onboarded,Intune,,True
+pty202g-moranet,,,CoAg,,,,mmd,bfe9870f-f1b0-4017-8eb7-ac9e0260b303,4/14/2025 12:15,22H2,19045,22H2,"131.204.112.23, 127.0.0.1, ::1",Onboarded,Unknown,,True
+pty210-rungecs2,,,CoAg,,,,mmd,c6d22d68-13f9-40b4-b8df-f9d268d2d649,4/9/2025 19:48,1809,17763,1809,"10.200.62.12, 127.0.0.1, ::1",Onboarded,Unknown,,False
+pty215-tes,User,Nicole Dundur Serrano,CoAg,HP ProDesk 600 G3 SFF,MXL829262H,No,mmd,e98a8ba3-7df7-4c66-a62f-c199ff5103e7,4/14/2025 5:27,22H2,19045,22H2,"10.200.62.136, 127.0.0.1, ::1",Onboarded,Intune,,True
+pty246-ddl0002,User,Denise Landers,CoAg,HP Compaq Pro 6300 SFF,2UA3311K0Y,No,mmd,2fdcfa32-465d-4dc0-b3f4-2b9dd933d00d,4/14/2025 12:13,22H2,19045,22H2,"131.204.112.162, 127.0.0.1, ::1",Onboarded,Intune,,True
+pty246-wad0005,User,Amber Wells,CoAg,HP ProDesk 600 G3 SFF,2UA81418XD,No,mmd,d55773de-194e-4fc0-9343-50d8b339e3f6,4/14/2025 12:06,22H2,19045,22H2,"131.204.112.194, 127.0.0.1, ::1",Onboarded,Intune,,True
+rbm0051-rea,User,Regina Meadows,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG3230R6Y,Yes,mmd,86667247-adc6-433e-93f8-0e52bc9a4da7,4/14/2025 13:57,22H2,19045,22H2,"192.168.1.237, 127.0.0.1, ::1",Onboarded,Intune,,True
+rec0004-nbk,User,Rachel McGuire,ACES,Latitude 5500,JZ725Y2,,mmd,3ec8ef61-efcf-425c-b625-0021e60fa2ad,4/1/2025 21:35,22H2,19045,22H2,"172.17.131.69, 127.0.0.1, ::1",Onboarded,Intune,,False
+robinrl-nbk2-am,,,ACES,,,,mmd,5e58113d-835b-4f53-a17e-f379fa6fcd77,4/14/2025 13:17,22H2,19045,22H2,"192.168.1.250, 127.0.0.1, ::1",Onboarded,Unknown,,True
+rouse-209,,,CoAg,,,,mmd,13b20766-bcaa-4e60-8cad-e2658affdf9d,4/14/2025 12:16,22H2,19045,22H2,"131.204.120.50, 127.0.0.1, ::1",Onboarded,Unknown,,True
+rse202a-bowenkl,User,Kira Bowen,CoAg,HP ProDesk 400 G1 SFF,MXL4120635,No,mmd,73d8488d-ead9-455e-9208-d2efbb4b84ec,4/12/2025 5:26,22H2,19045,22H2,"131.204.112.22, 127.0.0.1, ::1",Onboarded,Intune,,True
+rse209-mtp0036,User,Michelle Pegues-Washington,CoAg,OptiPlex 3050,2J6YVP2,No,mmd,3c5e7c40-d860-41fd-ac52-98bbc2769a3c,4/14/2025 12:17,22H2,19045,22H2,"131.204.120.51, 127.0.0.1, ::1",Onboarded,Intune,,True
+rtg0010-nbk2,User,Russell Grice,CoAg,HP EliteBook 860 16 inch G9 Notebook PC,5CG2273ZXR,Yes,mmd,f0e8ea28-7d2e-4957-a7ac-c167d6869057,4/14/2025 12:05,22H2,19045,22H2,"192.168.12.151, 127.0.0.1, ::1",Onboarded,Intune,,True
+rzp0050-nbk2,User,Rishi Prasad,CoAg,HP ZBook Firefly 16 inch G9 Mobile Workstation PC,5CG30335HZ,Yes,mmd,d881d3a1-3c1f-4366-be63-8f2cc541e364,4/14/2025 13:37,22H2,19045,22H2,"172.20.10.10, 127.0.0.1, ::1",Onboarded,Intune,,True
+safish-4,,,,,,,mmd,e0046069-4fef-4ebe-b53f-a224fd38e7c5,4/14/2025 12:03,22H2,19045,22H2,"10.37.25.33, 127.0.0.1, ::1",Onboarded,Unknown,,True
+sandmtn-7,User,David Harkins,AAES,OptiPlex 7010,8N419Z1,No,mmd,868b55e2-a246-4e8d-8c92-fca26792d7e3,4/12/2025 5:49,22H2,19045,22H2,"10.46.88.31, 127.0.0.1, ::1",Onboarded,Intune,,True
+seedtech-4,,,,,,,mmd,63766928-d0c3-4d65-a59b-0812131525de,4/14/2025 13:35,22H2,19045,22H2,"131.204.108.183, 127.0.0.1, ::1",Onboarded,Unknown,,True
+selfela-nbk,User,Beth Glasscock,ACES,20B6005DUS,PC02QPSM,,mmd,a00fd5f1-551f-4cde-ba2c-e261b81f9f38,3/18/2025 20:44,21H1,19043,21H1,"172.20.10.7, 127.0.0.1, ::1",Onboarded,Intune,,False
+sem0160-nbk,User,Rita King,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG24165K2,Yes,mmd,adb45da1-60e6-4c0d-b7cc-98d37c1f7a3a,4/14/2025 12:57,22H2,19045,22H2,"192.168.1.73, 127.0.0.1, ::1",Onboarded,Intune,,True
+simoncm-nbk1,User,Charles Simon,ACES,HP ProBook 6560b,4CZ1260PDX,No,mmd,23618920-5aac-403b-b9db-99f9e35d2aa8,4/6/2025 12:10,22H2,19045,22H2,"10.46.45.29, 127.0.0.1, ::1",Onboarded,Intune,,True
+simoncm-nbk4,User,Charles Simon,ACES,Latitude 7490,9XSZPV2,,mmd,93cd4fca-156c-4af3-b681-8ecb763680f4,4/14/2025 13:28,22H2,19045,22H2,"172.17.129.71, 127.0.0.1, ::1",Onboarded,Intune,,True
+soh0011-nbk,User,Shalong Hamilton,CoAg,HP EliteBook 850 G4,5CG815585H,,mmd,60e78120-9994-4ea9-b33f-c93739cd401e,4/12/2025 13:38,22H2,19045,22H2,"172.17.139.76, 127.0.0.1, ::1",Onboarded,Intune,,True
+soilkit-nbk,,,ACES,,,,mmd,e98f4598-596e-40ee-bce2-d525cf03303f,4/14/2025 12:07,22H2,19045,22H2,"131.204.108.173, 127.0.0.1, ::1",Onboarded,Unknown,,True
+srs0029-nbk,User,Sydney Zinner,CoAg,HP EliteBook 850 G6,2TK9490CPY,,mmd,c393e7cc-4d34-4485-8229-147a1d335153,4/11/2025 13:51,1909,18363,1909,"192.168.1.126, 127.0.0.1, ::1",Onboarded,Intune,,True
+stclair-1,User,Lee Ann Clark,ACES,HP Z240 SFF Workstation,2UA8242P50,No,mmd,2596d5d0-653e-495e-a8e8-29e1dfb390a7,4/14/2025 8:52,22H2,19045,22H2,"10.99.16.56, 10.90.10.20, 127.0.0.1, ::1",Onboarded,Intune,,True
+stclair-16,,,ACES,HP EliteDesk 800 G1 SFF,MXL4281QY3,No,mmd,98f4cbf8-4b43-4d43-ac8b-80db789f9bdf,4/14/2025 14:14,22H2,19045,22H2,"10.46.19.46, 127.0.0.1, ::1",Onboarded,Intune,,False
+stclair-3,User,Verhonda Embery,ACES,HP ProDesk 600 G4 SFF,MXL9172JXK,No,mmd,bf236b34-8aaf-4189-ad3f-ebb3dedfac65,4/14/2025 12:18,1909,18363,1909,"10.46.19.40, 127.0.0.1, ::1",Onboarded,Intune,,True
+swg117-daniewh,,William Daniels,CoAg,10MK000SUS,MJ08WZ2M,No,mmd,9731f641-a405-4616-b6bd-c36ecabefddf,4/14/2025 12:20,22H2,19045,22H2,"131.204.37.14, 127.0.0.1, ::1",Onboarded,Intune,,True
+swg302-1,Classroom,,Technology Enhanced Rooms,Â HP Z2 Mini G4 WorkstationÂ ,,Yes,mmd,6f898fc0-0223-462a-9272-0d5849209a6a,4/13/2025 22:30,1909,18363,1909,"131.204.37.27, 127.0.0.1, ::1",Onboarded,Unknown,,True
+swingle213-3,,Terry Hanson,,HP Z230 Tower Workstation,2UA5530JXY,No,mmd,dceec60c-51e4-4093-8161-ba25c2edccca,3/25/2025 16:29,22H2,19045,22H2,"131.204.37.138, 127.0.0.1, ::1",Onboarded,Intune,,False
+szg0154-nbk2,,Sthefani Goncalves de Oliveira,,HP EliteBook 1040 14 inch G9 Notebook PC,5CG2416J73,Yes,mmd,51cdd9c1-1958-4ce3-97a2-6811e8750f7c,4/14/2025 14:33,22H2,19045,22H2,"172.17.25.251, 127.0.0.1, ::1",Onboarded,Intune,,True
+szs0397-nbk,,Shabarinath Srikumar,,HP EliteBook 830 13 inch G10 Notebook PC,5CG32640KM,Yes,mmd,6ff676ee-bfbd-4aa0-87c8-f41722a02556,4/14/2025 13:25,22H2,19045,22H2,"131.204.112.138, 127.0.0.1, ::1",Onboarded,Intune,,True
+talladega-2,User,Josie Batchelor,ACES,HP ProDesk 600 G2 SFF,2UA6461VD7,No,mmd,91192a2f-257f-4bda-832b-b1655615489f,4/14/2025 13:39,22H2,19045,22H2,"10.46.2.65, 127.0.0.1, ::1",Onboarded,Intune,,True
+tcs0060-nbk,User,Tiffany Stevens,CoAg,20N4001NUS,MJ0BV10B,,mmd,8dccb396-22c0-4ea1-874e-b3866296d57b,3/22/2025 19:40,22H2,19045,22H2,"192.168.1.85, 127.0.0.1, ::1",Onboarded,Intune,,False
+tdg0021-rea,User,Tim Gothard,ACES,HP EliteBook 850 G4,5CG8160C3W,,mmd,30535b11-e977-43aa-9c55-cc3d0c8c205f,4/14/2025 12:06,22H2,19045,22H2,"10.46.46.29, 127.0.0.1, ::1",Onboarded,Intune,,False
+th0102c-01,,,,,,,,a9e59181-9ef3-4e6d-b642-3cc2d1365924,4/1/2025 18:56,22H2,19045,22H2,"131.204.180.31, 127.0.0.1, fe80::c920:5f25:8826:3bb0, ::1",Onboarded,Unknown,,False
+thompab-rea2,User,Zandi Foss,ACES,HP EliteBook 850 G4,5CG8380MSL,,mmd,676f6a8e-940a-4238-9a52-2aa5e6a9e169,4/14/2025 13:15,22H2,19045,22H2,"10.46.28.30, 127.0.0.1, ::1",Onboarded,Intune,,True
+tij0003-nbk,User,April Moore,ACES,HP ProBook 650 G2,5CG6310XZK,No,mmd,729067c5-250f-4805-9b21-304dee283706,4/14/2025 13:32,22H2,19045,22H2,"10.46.28.29, 127.0.0.1, ::1",Onboarded,Intune,,True
+tjk0013-lab,Research,Thorsten Knappenberger,CoAg,HP Z230 Tower Workstation,2UA5530JY0,No,mmd,c6266913-25c1-4f7c-9dc3-706c3372ac0a,4/14/2025 12:17,22H2,19045,22H2,"131.204.60.68, 127.0.0.1, ::1",Onboarded,Intune,,True
+tkg0001-nbk3,User,Tera Glenn,ACES,HP EliteBook 850 G4,5CG8333GW3,,mmd,8ccc29cf-cf80-48be-912a-c6bd984452dd,4/14/2025 13:45,22H2,19045,22H2,"172.19.185.78, 127.0.0.1, ::1",Onboarded,Intune,,True
+tmn0007-nbk,User,Tanjie Nash,ACES,HP EliteBook x360 1030 G8 Notebook PC,CND3031896,Yes,mmd,35792704-fda9-4384-a9ff-51c99d041d41,4/13/2025 0:21,22H2,19045,22H2,"192.168.1.88, 127.0.0.1, ::1",Onboarded,Intune,,True
+tss0052-nbk,User,Treca Springer,ACES,HP EliteBook 840 14 inch G9 Notebook PC,5CG2372C21,Yes,mmd,72b13892-db22-421a-9920-3f2eaefd19d1,4/14/2025 12:15,22H2,19045,22H2,"172.17.201.210, 127.0.0.1, ::1",Onboarded,Intune,,True
+ttt0024-nbk,,,ACES,,,,mmd,8f2dc8cc-14e9-4513-9254-4a7c57392f37,3/28/2025 4:50,22H2,19045,22H2,"192.168.0.13, 127.0.0.1, ::1",Onboarded,Unknown,,False
+tuscaloosa-25,,,ACES,,,,mmd,043b71f3-eab2-496a-8ef0-a4957e48bb46,4/14/2025 12:05,22H2,19045,22H2,"10.46.87.29, 192.168.20.5, 127.0.0.1, ::1",Onboarded,Unknown,,False
+tvrec-3,User,Kerry Walker,AAES,10MK000SUS,MJ08WZ2R,No,mmd,7336d211-5ac5-4d51-9dd5-62ea9cba163f,3/31/2025 18:53,22H2,19045,22H2,"10.46.69.36, 127.0.0.1, ::1",Onboarded,Intune,,False
+tvrec-6,User,David Harkins,AAES,OptiPlex 9020,BZMLD42,No,mmd,480a4a98-078a-4dbf-9ed0-59daf556a257,4/5/2025 17:23,22H2,19045,22H2,"10.46.69.44, 127.0.0.1, ::1",Onboarded,Intune,,True
+tvrec-harkihd2,,,,,,,mmd,d8c6251e-3ae2-4470-8200-f3826d6d1d2e,4/14/2025 12:07,22H2,19045,22H2,"10.46.69.58, 127.0.0.1, ::1",Onboarded,Unknown,,True
+uch118-lab,User,Leanne Dillard,CoAg,HP ProDesk 600 G1 SFF,2UA5341BH4,No,mmd,ac3c17b3-3bb5-4b9d-9955-79947c054ba9,4/14/2025 14:38,22H2,19045,22H2,"10.200.23.10, 127.0.0.1, ::1",Onboarded,Intune,,True
+uch118-lab1,,,CoAg,HP Compaq Pro 6300 SFF,MXL343203N,No,mmd,56997b6c-4604-4b4a-921a-5b9c322bb9f6,4/14/2025 12:05,22H2,19045,22H2,"10.200.23.12, 169.254.198.23, 127.0.0.1, ::1",Onboarded,Intune,,True
+uch208-hambelm,User,Lawrence Hamberlin,CoAg,10M7000GUS,MJ086PG5,No,mmd,fca0f4bc-dc3f-4061-b36e-b64d400fe3d6,4/14/2025 12:06,22H2,19045,22H2,"10.200.23.155, 127.0.0.1, ::1",Onboarded,Intune,,True
+uch210-greenlw,User,Wayne Greene,CoAg,HP ProDesk 600 G1 SFF,2UA52220XM,No,mmd,361f606a-7d2b-42fe-9fe8-c506071003dd,4/13/2025 21:48,22H2,19045,22H2,"10.200.23.6, 127.0.0.1, ::1",Onboarded,Intune,,True
+uch222-bartojl,User,Julia Bartosh,CoAg,HP Compaq Elite 8300 CMT,2UA2421HNJ,No,mmd,b393a75e-42d6-4b2c-97f0-a27be976a28e,4/14/2025 5:36,22H2,19045,22H2,"10.200.23.21, 127.0.0.1, ::1",Onboarded,Intune,,True
+uch240-aldriar,User,Rebekah Keenon,CoAg,HP ProDesk 600 G3 SFF,MXL8292VFJ,No,mmd,a6749323-ab03-46a3-8546-c69976108135,4/14/2025 13:16,22H2,19045,22H2,"10.200.23.9, 127.0.0.1, ::1",Onboarded,Intune,,True
+uch244-rungecs,User,Codi Plaster,CoAg,HP ProDesk 600 G3 SFF,2UA8031TFD,No,mmd,da6766b5-1d98-471f-8af2-cca030437b36,4/14/2025 12:03,22H2,19045,22H2,"10.200.23.131, 127.0.0.1, ::1",Onboarded,Intune,,True
+uch251-tas00532,,,CoAg,,,,mmd,d6aa29b6-7bbb-4941-b27a-42102af17599,4/14/2025 6:19,22H2,19045,22H2,"10.200.23.136, 127.0.0.1, ::1",Onboarded,Unknown,,True
+uch253-szk0237,,,CoAg,,,,mmd,1ee5d820-f7ca-47fb-8483-25a61aa49f95,4/14/2025 4:56,22H2,19045,22H2,"10.200.23.134, 127.0.0.1, ::1",Onboarded,Unknown,,True
+uch254-hzm0045,,,CoAg,,,,mmd,6d41400b-a8d2-44fa-934f-ff517f5c1f1a,4/14/2025 0:14,22H2,19045,22H2,"10.200.23.130, 127.0.0.1, ::1",Onboarded,Unknown,,True
+uch308-wowerja,,Sarah Lino,CoAg,HP TouchSmart 9100 Business PC,MXL112261Q,,mmd,080af180-1e15-4b19-8dbb-d1df7f4244e0,4/14/2025 13:05,22H2,19045,22H2,"10.200.23.151, 127.0.0.1, ::1",Onboarded,Intune,,True
+upc110-eas0115,User,Jesse Henson,CoAg,HP ProDesk 600 G4 SFF,MXL927227Q,Yes,mmd,b3f3c462-1d50-4686-a732-e8728b45ca3a,4/14/2025 8:16,22H2,19045,22H2,"10.200.23.148, 127.0.0.1, ::1",Onboarded,Intune,,True
+upchurch210-3,User,Robert Britton,CoAg,HP ProDesk 600 G2 SFF,MXL63129SV,No,mmd,899671b5-552f-4e6e-8e09-37f98e5c792c,4/14/2025 14:30,22H2,19045,22H2,"10.200.23.20, 127.0.0.1, ::1",Onboarded,Intune,,True
+walker-13,User,Danny Cain,ACES,HP ProDesk 600 G3 SFF,MXL82926QP,No,mmd,14982a5d-cf4a-46a3-b454-4eb5e5b67c90,4/14/2025 12:25,22H2,19045,22H2,"10.46.86.27, 127.0.0.1, ::1",Onboarded,Intune,,True
+washington-1,User,Nicole Etheredge,ACES,HP ProDesk 600 G1 SFF,2UA4521FNQ,No,mmd,f553b895-ebcc-4d9f-b088-6b8810dca22e,4/14/2025 14:10,22H2,19045,22H2,"10.46.79.28, 127.0.0.1, ::1",Onboarded,Intune,,True
+weesesj-nbk,User,Jean Weese,ACES,20U9002NUS,PF28CH9W,,mmd,3b2c01e6-edf8-4bb1-afb9-d8ef0bf13053,4/10/2025 12:43,22H2,19045,22H2,"192.168.0.23, 127.0.0.1, ::1",Onboarded,Intune,,False
+wilkibs-nbk3,User,Bryan Wilkins,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG227404D,Yes,mmd,e7ad2f59-4d9e-47c7-89cf-d99780a89084,4/4/2025 12:23,22H2,19045,22H2,"192.168.0.130, 127.0.0.1, ::1",Onboarded,Intune,,True
+wmc0005-nbk1,User,Mitch Carter,ACES,HP EliteBook 860 16 inch G9 Notebook PC,5CG32303SQ,Yes,mmd,5cdcaf57-0cf8-4a06-b76c-02238823bfe1,4/14/2025 14:00,22H2,19045,22H2,"10.46.90.26, 127.0.0.1, ::1",Onboarded,Intune,,False
+wrc11-nbk,User,Jessica Curl,CoAg,Latitude 5590,4CFB0X2,,mmd,3236c802-36a7-4ac3-b4a6-c9b54547d78c,4/9/2025 14:02,22H2,19045,22H2,"172.19.145.217, 127.0.0.1, ::1",Onboarded,Intune,,True
+wrc1-nbk,,,CoAg,,,,mmd,498a3b0a-f862-4f1d-a955-b152e8daf40d,4/3/2025 22:06,22H2,19045,22H2,"172.19.168.60, 127.0.0.1, ::1",Onboarded,Unknown,,False
+wrc2-nbk,,,CoAg,,,,mmd,bcccd0b7-52c5-4934-a04e-53b87380e7db,4/13/2025 20:43,22H2,19045,22H2,"10.99.16.7, 192.168.4.44, 127.0.0.1, ::1",Onboarded,Unknown,,True
+wrigham-nbk2,User,Amy Wright,CoAg,20FQ000RUS,R90K7Z3J,Yes,mmd,7beceed3-8d89-45ce-b9ce-c24e633bc621,4/14/2025 12:11,22H2,19045,22H2,"192.168.40.246, 127.0.0.1, ::1",Onboarded,Intune,,True
+wrighr2-nbk2,,,CoAg,,,,mmd,bfce27a2-f603-4b61-8c0d-a1f0afa86cef,4/14/2025 12:05,21H1,19043,21H1,"172.17.107.235, 127.0.0.1, ::1",Onboarded,Unknown,,False
